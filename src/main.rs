@@ -1,3 +1,4 @@
+mod chunk;
 mod header;
 mod util;
 
